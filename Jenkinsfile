@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PYTHON = 'C:\\Users\\Dell\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe'
+        PYTHON = 'D:\\SEMVII\\MLOps\\ML_EX11\\venv\\Scripts\\python.exe'
     }
 
     stages {
